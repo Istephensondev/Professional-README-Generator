@@ -25,7 +25,7 @@ This application is covered by the Apache license.
 ## Tests
 ✏️ none
 ## Questions
-✋ For additional help or questions about collaboration, please reach out to me at istephendonev@gmail.com<br />
+✋ For additional help or questions about collaboration, please reach out to me at istephensondev@gmail.com<br />
 <br />
 :octocat: Find me on GitHub: [istephensondev](https://github.com/istephensondev)<br />
 <br />
