@@ -1,4 +1,4 @@
-# REAdme-generatorProfession READme Generator 👋
+# REAdme-generatorProfession READme Generator 
 
 ## Description
 🔍 Every good project needs a quality README with information about the app - what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. The task is to create a command-line application that dynamically gene
@@ -16,6 +16,8 @@ Installation
 
 ## Usage
 💻 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project.
+
+![caption](https://drive.google.com/file/d/1vArUCInUkJ4g9Psl0fKcFA5FRkNl4L45/view)
 
 ## License
 badge
