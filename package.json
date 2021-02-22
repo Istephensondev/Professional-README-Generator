@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Istephensondev/REAdme-generator#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "inquirer": "^7.3.3"
-  }
+  },
+  "devDependencies": {}
 }
