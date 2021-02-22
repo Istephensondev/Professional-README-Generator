@@ -30,8 +30,7 @@ This application is covered by the Apache license.
 ## Tests
 ✏️ none
 
-Questions
-✋ For additional help or questions about collaboration, please reach out to me at istephendonev@gmail.com
+
 
 :octocat: Find me on GitHub: istephensondev
 
