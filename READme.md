@@ -20,8 +20,6 @@ Installation
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/UjMwe1QDGz0)
 
 
-![caption](https://drive.google.com/file/d/1vArUCInUkJ4g9Psl0fKcFA5FRkNl4L45/view)
-
 ## License
 badge
 This application is covered by the Apache license.
