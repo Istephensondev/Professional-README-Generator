@@ -28,18 +28,12 @@ This application is covered by the Apache license.
 ## Tests
 ✏️ None
 ## Questions
-<<<<<<< HEAD
+
 ✋ See Below<br />
-=======
-✋ For additional help or questions about collaboration, please reach out to me at istephensondev@gmail.com<br />
->>>>>>> 06e2409423bd5089b3cf422b1b9bf41d5291023f
+
 <br />
 :octocat: Find me on GitHub: [Istephensondev](https://github.com/Istephensondev)<br />
 <br />
 ✉️ Email me with any questions: istephensondev@gmail.com<br /><br />
 
-<<<<<<< HEAD
-    
-=======
-    
->>>>>>> 06e2409423bd5089b3cf422b1b9bf41d5291023f
+
