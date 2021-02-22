@@ -16,6 +16,9 @@
 💾 rates a professional README.md file from a user's input using the Inquirer package .To generate your README file, first run npm install to  install npm package dependencies such as inquirer.
 ## Usage
 💻 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project.
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/UjMwe1QDGz0)
+
 ## License
 ![badge](https://img.shields.io/badge/license-Apache-brightgreen)
 <br />
