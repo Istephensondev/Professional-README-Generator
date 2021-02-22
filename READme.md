@@ -17,6 +17,9 @@ Installation
 ## Usage
 💻 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project.
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/UjMwe1QDGz0)
+
+
 ![caption](https://drive.google.com/file/d/1vArUCInUkJ4g9Psl0fKcFA5FRkNl4L45/view)
 
 ## License
