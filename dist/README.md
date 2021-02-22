@@ -30,5 +30,5 @@ This application is covered by the Apache license.
 :octocat: Find me on GitHub: [istephensondev](https://github.com/istephensondev)<br />
 <br />
 ✉️ Email me with any questions: istephensondev@gmail.com<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+
     
